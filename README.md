@@ -14,7 +14,7 @@ A Spotify-inspired web player UI built using HTML and CSS. This project replicat
 
    Screenshot
 
-"Spotify UI" (<img width="1919" height="969" alt="Screenshot 2026-03-23 224238" src="https://github.com/user-attachments/assets/129b4b9a-9de7-4b03-8d79-5534e5002327" />)
+"Spotify UI"  ( <img width="1919" height="969" alt="screenshot png" src="https://github.com/user-attachments/assets/e74a2377-0954-4cf6-84ff-e8e0624cce89" /> )
 
   Note
 
